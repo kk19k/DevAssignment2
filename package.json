@@ -1,0 +1,10 @@
+{
+  "name": "devops-q1",
+  "version": "1.0.0",
+  "description": "DevOps CI/CD Pipeline Demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  }
+}
